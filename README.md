@@ -1,2 +1,1 @@
-# Hello Git
-second line
+# 1주차 Git & GitHub 과제
